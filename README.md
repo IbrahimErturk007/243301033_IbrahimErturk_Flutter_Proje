@@ -56,8 +56,8 @@ Aşağıdaki hesaplar Supabase üzerinde önceden oluşturulmuştur (siz de
 
 | Rol | E‑posta | Şifre |
 |---|---|---|
-| 🚍 **Şoför** | `driver@test.com` | `Test1234` |
-| 👨‍👩‍👧 **Veli** | `parent@test.com` | `Test1234` |
+| 🚍 **Şoför** | `a@gmail.com` | `123123` |
+| 👨‍👩‍👧 **Veli** | `b@gmail.com` | `123123` |
 
 ---
 
